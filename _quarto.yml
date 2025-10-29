@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - resume.pdf
+
+website:
+  title: "Jiahe Ren – Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: fall2025.qmd
+        text: Fall 2025
+      - text: Resume
+        href: resume.pdf
+
+format:
+  html:
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#0013d5"
+    linkcolor: "#ff33f0"
+    monofont: courier new
+
+editor: visual
+
