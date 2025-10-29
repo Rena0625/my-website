@@ -1,10 +1,23 @@
 ---
-title: "hw9"
+title: "Jiahe Ren"
+image: photo.jpg
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:jiaheren@email.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/Rena0625
+    - text: Resume
+      icon: file-text
+      href: resume.pdf
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello! I am a UIC MSCA student 。
 
 ```{r}
 1 + 1

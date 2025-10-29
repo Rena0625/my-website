@@ -1,3 +1,11 @@
 ---
-title: "Untitled"
+title: ""Fall 2025 Courses"
 ---
+
+IDS 570 – Statistics for Management\
+
+PA 446 – Coding for Civic Data Applications\
+
+PA 504 – Financial Management and Budgeting\
+
+PA 590 – Capstone Portfolio in Policy
