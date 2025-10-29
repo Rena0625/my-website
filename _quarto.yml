@@ -1,27 +1,21 @@
 project:
   type: website
-  output-dir: docs
-  resources:
-    - resume.pdf
+  output-dir: docs  # 让GitHub Pages能找到网页
 
 website:
-  title: "Jiahe Ren – Portfolio"
+  title: "Jiahe Ren"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - text: Resume
-        href: resume.pdf
+      - text: "Home"
+        href: index.qmd
+      - text: "Resume"
+        href: resume.qmd
 
 format:
   html:
     theme: sandstone
-    mainfont: arial
-    fontsize: 1.2rem
-    fontcolor: "#0013d5"
-    linkcolor: "#ff33f0"
-    monofont: courier new
-
-editor: visual
+    mainfont: Arial
+    fontsize: 1.1rem
+    linkcolor: "#0066cc"
 
 
