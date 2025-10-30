@@ -1,7 +1,7 @@
 project:
   type: website
-  output-dir: docs  
-   resources:
+  output-dir: docs
+  resources:
     - resume.pdf
     - photo.jpg
 
@@ -12,7 +12,7 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "Resume"
-        href: Resume.qmd 
+        href: Resume.qmd
 
 format:
   html:
@@ -20,5 +20,4 @@ format:
     mainfont: Arial
     fontsize: 1.1rem
     linkcolor: "#0066cc"
-
 
