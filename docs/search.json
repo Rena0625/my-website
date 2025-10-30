@@ -7,15 +7,15 @@
     "text": "Hi! I’m Jiahe Ren, a student at the University of Illinois Chicago."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "Resume.html",
     "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Here is my resume:\nDownload Resume (PDF)"
+  },
+  {
+    "objectID": "docs/resume.html",
+    "href": "docs/resume.html",
     "title": "Resume",
     "section": "",
     "text": "Here is my resume:\nDownload Resume (PDF)"

@@ -1,6 +1,6 @@
 ---
 title: "Jiahe Ren"
-image: uicpic.jpg
+image: photo.jpg
 about:
   template: jolla
   image-shape: round

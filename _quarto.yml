@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs  
+   resources:
+    - resume.pdf
+    - photo.jpg
 
 website:
   title: "Jiahe Ren"
@@ -9,7 +12,7 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "Resume"
-        href: resume.qmd
+        href: Resume.qmd 
 
 format:
   html:
