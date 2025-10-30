@@ -1,24 +1,17 @@
 ---
 title: "Jiahe Ren"
-image: photo.jpg
+image: uicpic.jpg
 about:
   template: jolla
   image-shape: round
-  image-width: 15em
+  image-width: 12em
   links:
-    - text: Email
-      icon: envelope
-      href: mailto:jiaheren@email.com
-    - text: GitHub
+    - text: "GitHub"
       icon: github
-      href: https://github.com/Rena0625
-    - text: Resume
+      href: "https://github.com/Rena0625"
+    - text: "Resume"
       icon: file-text
       href: resume.pdf
 ---
 
-Hello! I am a UIC MSCA student 。
-
-```{r}
-1 + 1
-```
+Hi! I’m **Jiahe Ren**, a student at the University of Illinois Chicago.

@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs  # 让GitHub Pages能找到网页
+  output-dir: docs  
 
 website:
   title: "Jiahe Ren"
